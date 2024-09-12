@@ -8,7 +8,7 @@ void main() {
 
 	Application::EnableVisualStyles();
 	Application::SetCompatibleTextRenderingDefault(false);
-	IMPACTLABGUI2023::IMPACTLAB_Form form;
+	IMPACTLABGUI2024::IMPACTLAB_Form form;
 
 	Application::Run(% form);
 
